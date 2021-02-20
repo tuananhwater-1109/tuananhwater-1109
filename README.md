@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-**tuananhwater-1109/tuananhwater-1109** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<-**tuananhwater-1109/tuananhwater-1109** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
 Here are some ideas to get you started:
 
